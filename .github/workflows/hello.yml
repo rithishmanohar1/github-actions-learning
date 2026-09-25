@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: say hello
-        run: echo "Hello! Github action is working"
+        run: echo "I'm learning DevSecOps"
